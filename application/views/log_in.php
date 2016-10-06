@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Hola</h1>
+	<h1>Hol a</h1>
 </div>
 </body>
 </html>
